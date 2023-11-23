@@ -6,15 +6,17 @@
  ![img3](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![img6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![img4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![img5](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-- 🌐 `Django-allauth`: A comprehensive Django authentication system.
-  
-- 🚀 `FastAPI`: A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- 🏗️ `ProyectDjango`: A Django project, a web environment set up for easy implementation of Web Apps. In this, you'll find different Apps, one of them is a portfolio and an interactive world map.
+
+- 🌐 `Django-allauth`: A comprehensive Django authentication system and socialaccount.
 
 - 📚 `ORM_DJANGO`: An ORM (Object Relational Mapping) with Django.
 
-- 🧠 `PredictIA`: A machine learning project for making predictions based on the data it's trained with.
+- 💬 `Django-Rest-Framework`: is a powerful and flexible toolkit for building Web APIs.
 
-- 🏗️ `ProyectDjango`: A Django project, a web environment set up for easy implementation of Web Apps. In this, you'll find different Apps, one of them is a portfolio and an interactive world map.
+- 🚀 `FastAPI`: A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
+- 🧠 `PredictIA`: A machine learning project for making predictions based on the data it's trained with.
 
 - 🎥 `Stream`: A streaming service project that creates a private server and broadcasts live on a specific URL, from the front camera of the person running it.
 
