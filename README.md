@@ -20,9 +20,11 @@
 
 - ⚡ `Counter-Clic`: Made in react with node.js
   __________________________________________________________________________________________________________________________________
-  ### My Stats:
-- ![Mis estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpedo123)
+### My Stats
 
+| Mis estadísticas de lenguajes | GIF |
+| ------------------------------ | --- |
+| ![Mis estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpedo123) | ![GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif) |
 
 <!--
 **Davidpedo123/Davidpedo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
