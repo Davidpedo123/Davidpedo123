@@ -1,6 +1,7 @@
   ### Hi, I'm Eduardo 👋
 
   ### I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
+ ![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
 
 - 🌐 `Django-allauth`: A comprehensive Django authentication system.
   
