@@ -1,33 +1,18 @@
-### Hi, I'm Eduardo 👋
+  ### Hi, I'm Eduardo 👋
 
-### I'm a software developer specializing in web development. Here are some of the projects I've worked on:
-- 🌐 Django-allauth: A comprehensive Django authentication system.
+  ### I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
 
+- 🌐 `Django-allauth`: A comprehensive Django authentication system.
+  
+- 🚀 `FastAPI`: A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
+- 📚 `ORM_DJANGO`: An ORM (Object Relational Mapping) with Django.
 
+- 🧠 `PredictIA`: A machine learning project for making predictions based on the data it's trained with.
 
-- 🚀 FastAPI: A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- 🏗️ `ProyectDjango`: A Django project, a web environment set up for easy implementation of Web Apps. In this, you'll find different Apps, one of them is a portfolio and an interactive world map.
 
-
-
-
-- 📚 ORM_DJANGO: An ORM (Object Relational Mapping) with Django.
-
-
-
-
-- 🧠 PredictIA: A machine learning project for making predictions (add more details here).
-
-
-
-
-- 🏗️ ProyectDjango: A Django project (add more details here).
-
-- 🎥 Stream: A streaming service project (add more details here).
-
-
-
-
+- 🎥 `Stream`: A streaming service project that creates a private server and broadcasts live on a specific URL, from the front camera of the person running it.
 
 <!--
 **Davidpedo123/Davidpedo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
