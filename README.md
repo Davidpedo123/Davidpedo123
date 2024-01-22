@@ -8,7 +8,7 @@
 
 - 🏗️ `ProyectDjango`: A Django project, a web environment set up for easy implementation of Web Apps. In this, you'll find different Apps, one of them is a portfolio and an interactive world map.
 
-- 🌐 `Django-allauth`: A comprehensive Django authentication system and socialaccount.
+- 🌐 `Django-allauth`: This project is a Django authentication system with social account functionalities. It includes a Northwind-themed website with custom APIs to display detailed product information.
 
 - 📚 `ORM_DJANGO`: An ORM (Object Relational Mapping) with Django.
 
