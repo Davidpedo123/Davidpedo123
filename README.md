@@ -3,7 +3,7 @@
   ### I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
  __________________________________________________________________________________________________________________________________
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![img](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![img2](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
- ![img3](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![img6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![img4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![img5](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![img3](https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg)![img6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![img4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![img5](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 - 🏗️ `ProyectDjango`: A Django project, a web environment set up for easy implementation of Web Apps. In this, you'll find different Apps, one of them is a portfolio and an interactive world map.
