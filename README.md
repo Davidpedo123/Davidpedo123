@@ -10,6 +10,10 @@
 
 - 🌐 `Django-allauth`: This project is a Django authentication system with social account functionalities. It includes a Northwind-themed website with custom APIs to display detailed product information.
 
+- 🚀 `SQLalchemy`: SQLAlchemy is a Python SQL toolkit and Object-Relational Mapper (ORM) that allows developers to work with databases using Python objects instead of writing SQL queries.
+
+- 🧠 `Postgresql`: PostgreSQL is an open-source object-relational database management system (ORDBMS). Its primary function is to securely store data, ensuring referential integrity and persistence.
+
 - 📚 `ORM_DJANGO`: An ORM (Object Relational Mapping) with Django.
 
 - 💬 `Django-Rest-Framework`: is a powerful and flexible toolkit for building Web APIs.
