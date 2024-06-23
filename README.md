@@ -7,7 +7,7 @@ I’m a software developer specializing in web development. Here are some of the
 
 **--Languages--**
 
-Python
+[Py](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)
 JS
 HTML
 CSS
