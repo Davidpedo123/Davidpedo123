@@ -7,8 +7,8 @@ I’m a software developer specializing in web development. Here are some of the
 
 **--Languages--**
 
-![Py](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)
-JS
+![img4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![img6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 HTML
 CSS
 
