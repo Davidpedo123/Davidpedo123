@@ -1,5 +1,7 @@
 Hi, I'm Eduardo 👋
 I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
+![its Programmer](https://images3.memedroid.com/images/UPLOADED983/62d8ffe1d7445.jpeg)
+
 Skills
 
 --Languages--
