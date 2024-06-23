@@ -3,64 +3,64 @@ I’m a software developer specializing in web development. Here are some of the
 
 ![its Programmer](https://images3.memedroid.com/images/UPLOADED983/62d8ffe1d7445.jpeg)
 
-Skills
+**Skills**
 
---Languages--
+**--Languages--**
 
 Python
 JS
 HTML
 CSS
 
---Frameworks--
+**--Frameworks--**
 
 Flask
 Django Rest Framework (DRF)
 Bootstrap
 
---ORMs--
+**--ORMs--**
 
 SQLAlchemy
 Django ORM
 
---Containers--
+**--Containers--**
 
 Docker
 
---Version Control--
+**--Version Control--**
 
 GIT
 
---Command Line Interfaces (CLI)--
+**--Command Line Interfaces (CLI)--**
 
 PowerShell
 CMD
 Bash
 
---DBMS--
+**--DBMS--**
 
 PostgreSQL
 MySQL
 
---Operating Systems--
+**--Operating Systems--**
 
 Windows
 Linux
 
---Methodologies--
+**--Methodologies--**
 
 DevOps
 
---Software Architecture--
+**--Software Architecture--**
 
 Monolithic
 Microservices
 
---API Development--
+**--API Development--**
 
 RESTful APIs
 
---Soft Skills--
+**--Soft Skills--**
 
 Effective Communication
 Problem Solving
