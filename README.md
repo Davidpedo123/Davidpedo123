@@ -1,54 +1,63 @@
 Hi, I'm Eduardo 👋
 I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
 Skills
-Languages
 
+--Languages--
 
-
+Python
+JS
 HTML
 CSS
-Frameworks
+
+--Frameworks--
 
 Flask
-
-
 Django Rest Framework (DRF)
 Bootstrap
-ORM
+
+--ORMs--
 
 SQLAlchemy
 Django ORM
-Containers
+
+--Containers--
 
 Docker
-Version Control
 
+--Version Control--
 
-Command Line Interfaces (CLI)
+GIT
+
+--Command Line Interfaces (CLI)--
 
 PowerShell
 CMD
 Bash
-Databases
+
+--DBMS--
 
 PostgreSQL
-
 MySQL
-Operating Systems
+
+--Operating Systems--
 
 Windows
 Linux
-Methodologies
+
+--Methodologies--
 
 DevOps
-Software Architecture
+
+--Software Architecture--
 
 Monolithic
 Microservices
-API Development
+
+--API Development--
 
 RESTful APIs
-Soft Skills
+
+--Soft Skills--
 
 Effective Communication
 Problem Solving
