@@ -1,48 +1,80 @@
-  ### Hi, I'm Eduardo 👋
-
-  ### I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
- __________________________________________________________________________________________________________________________________
-![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![img](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![img2](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![img6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![img4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![img5](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Hi, I'm Eduardo 👋
+I’m a software developer specializing in web development. Here are some of the projects and technologies I’ve worked with:
+Skills
+Languages
 
 
-- 🏗️ `ProyectDjango`: A Django project, a web environment set up for easy implementation of Web Apps. In this, you'll find different Apps, one of them is a portfolio and an interactive world map.
 
-- 🌐 `Django-allauth`: This project is a Django authentication system with social account functionalities. It includes a Northwind-themed website with custom APIs to display detailed product information.
+HTML
+CSS
+Frameworks
 
-- 🚀 `SQLalchemy`: SQLAlchemy is a Python SQL toolkit and Object-Relational Mapper (ORM) that allows developers to work with databases using Python objects instead of writing SQL queries.
+Flask
 
-- 🧠 `Postgresql`: PostgreSQL is an open-source object-relational database management system (ORDBMS). Its primary function is to securely store data, ensuring referential integrity and persistence.
 
-- 📚 `ORM_DJANGO`: An ORM (Object Relational Mapping) with Django.
+Django Rest Framework (DRF)
+Bootstrap
+ORM
 
-- 💬 `Django-Rest-Framework`: is a powerful and flexible toolkit for building Web APIs.
+SQLAlchemy
+Django ORM
+Containers
 
-- 🚀 `FastAPI`: A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+Docker
+Version Control
 
-- 🧠 `PredictIA`: A machine learning project for making predictions based on the data it's trained with.
 
-- 🎥 `Stream`: A streaming service project that creates a private server and broadcasts live on a specific URL, from the front camera of the person running it.
+Command Line Interfaces (CLI)
 
-- ⚡ `Counter-Clic`: Made in react with node.js
-  __________________________________________________________________________________________________________________________________
-### My Stats
+PowerShell
+CMD
+Bash
+Databases
 
-| Mis estadísticas de lenguajes | GIF |
-| ------------------------------ | --- |
-| ![Mis estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpedo123) | ![GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) |
+PostgreSQL
 
-<!--
-**Davidpedo123/Davidpedo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MySQL
+Operating Systems
 
-Here are some ideas to get you started:
+Windows
+Linux
+Methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DevOps
+Software Architecture
+
+Monolithic
+Microservices
+API Development
+
+RESTful APIs
+Soft Skills
+
+Effective Communication
+Problem Solving
+Continuous Learning
+Time Management
+Adaptability
+
+
+
+--Projects--
+🏗️ ProyectDjango: A Django project featuring a web environment set up for easy implementation of Web Apps. Includes various Apps, such as a portfolio and an interactive world map.
+
+🌐 Django-allauth: A Django authentication system with social account functionalities. Features a Northwind-themed website with custom APIs for detailed product information.
+
+🚀 SQLAlchemy: A Python SQL toolkit and Object-Relational Mapper (ORM) enabling developers to work with databases using Python objects instead of SQL queries.
+
+🧠 PostgreSQL: An open-source object-relational database management system (ORDBMS) designed to securely store data, ensuring referential integrity and persistence.
+
+📚 ORM_DJANGO: An Object-Relational Mapping (ORM) implementation using Django.
+
+💬 Django-Rest-Framework: A powerful and flexible toolkit for building Web APIs.
+
+🚀 FastAPI: A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
+🧠 PredictIA: A machine learning project designed to make predictions based on the data it’s trained with.
+
+🎥 Stream: A streaming service project that creates a private server and broadcasts live on a specific URL from the front camera of the person running it.
+
+⚡ Counter-Clic: A project made in React with Node.js.
