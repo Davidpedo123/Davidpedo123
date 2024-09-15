@@ -9,17 +9,32 @@
 ![img6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![img4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![img5](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 `Tecnologias`:
-`Lenguajes de Programacion`: Python, JavaScript
+
+
+`Lenguajes de Programacion`: `Python`, `JavaScript`
+
+
 `Frameworks`: `FastAPI`, `Django`, `Flask`, `node.js`
+
+
 `ORM `: `SQLAlchemy`, `ORMDjango`
+
 `Contenedores y orquestacion`: `Docker`, `Docker-Compose`, `Kubernetes`
+
 `Infraestructura como codigo`: `Terraform`
+
 `Proxy inversos`: `Nginx`
+
 `Cache`: `Redis`
+
 `Servidores ASGI/WSGI `: `Uvicorn`, `Gunicorn`
+
 `Control de Versiones`: `Git`
+
 `DBMS` : `Postgresql`, `Mysql`
+
 `Tunelizacion`: `Ngrok`
+
 `Herramientas de pruebas de carga`: `locout`
 
 - 🧠 `TomatuIP`: Consiste en la captura de la ip visitante y la busqueda geografica de IPsv4 y IPv6, este proyecto esta desarrollado en una arquitectura de Microservicios, Las APIs estan desarrolladas en `FastAPI`
