@@ -36,6 +36,8 @@ Tunelizacion: `Ngrok`
 
 Herramientas de pruebas de carga: `locout`
 
+Proyectos:
+
 - 🧠 `TomatuIP`: Consiste en la captura de la ip visitante y la busqueda geografica de IPsv4 y IPv6, este proyecto esta desarrollado en una arquitectura de Microservicios, Las APIs estan desarrolladas en `FastAPI`
   , el Front en `Angular.js`, como balanceador de cargas `Nginx`, `Redis` como servidor cache y `Ngrok` para la tunelizacion.
   
