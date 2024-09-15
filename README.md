@@ -41,13 +41,13 @@ Proyectos:
 - 🧠 `TomatuIP`: Consiste en la captura de la ip visitante y la busqueda geografica de IPsv4 y IPv6, este proyecto esta desarrollado en una arquitectura de Microservicios, Las APIs estan desarrolladas en `FastAPI`
   , el Front en `Angular.js`, como balanceador de cargas `Nginx`, `Redis` como servidor cache y `Ngrok` para la tunelizacion.
   
-🏗️ `ProyectDjango`: Un proyecto Django, un entorno web configurado para la implementación fácil de aplicaciones web. En este, encontrarás diferentes aplicaciones, una de las cuales es un portafolio y un mapa interactivo del mundo.
+- 🏗️ `ProyectDjango`: Un proyecto Django, un entorno web configurado para la implementación fácil de aplicaciones web. En este, encontrarás diferentes aplicaciones, una de las cuales es un portafolio y un mapa interactivo del mundo.
 
-🌐 `Django-allauth`: Este proyecto es un sistema de autenticación en Django con funcionalidades para cuentas sociales. Incluye un sitio web con tema Northwind y APIs personalizadas para mostrar información detallada sobre productos.
+- 🌐 `Django-allauth`: Este proyecto es un sistema de autenticación en Django con funcionalidades para cuentas sociales. Incluye un sitio web con tema Northwind y APIs personalizadas para mostrar información detallada sobre productos.
 
-🧠 `PredictIA`: Un proyecto de aprendizaje automático para hacer predicciones basadas en los datos con los que ha sido entrenado.
+- 🧠 `PredictIA`: Un proyecto de aprendizaje automático para hacer predicciones basadas en los datos con los que ha sido entrenado.
 
-🎥 `Stream`: Un proyecto de servicio de streaming que crea un servidor privado y transmite en vivo en una URL específica, desde la cámara frontal de la persona que lo está ejecutando.
+- 🎥 `Stream`: Un proyecto de servicio de streaming que crea un servidor privado y transmite en vivo en una URL específica, desde la cámara frontal de la persona que lo está ejecutando.
 
   __________________________________________________________________________________________________________________________________
 ### My Stats
