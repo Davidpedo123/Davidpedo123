@@ -2,7 +2,7 @@
 
   ### Biografía Profesional 
 ### ¡Hola! Me llamo Eduardo y soy Desarrollador de Software con experiencia en mejorar procesos mediante soluciones hechas a medida. Me enfoco en automatizar tareas, capturar, validar y transformar datos utilizando scripts, lo que ayuda a que las operaciones sean más 
-## eficientes. Trabajo en el desarrollo de software en el backend con Python.
+### eficientes. Trabajo en el desarrollo de software en el backend con Python.
 ### También tengo experiencia en crear infraestructura como código, configurando y gestionando servidores, balanceadores de carga y arquitecturas distribuidas usando herramientas como Docker, Kubernetes y otras herramientas de automatización. Me interesa el enfoque DevOps, ###ya que permite integrar el desarrollo y la infraestructura de manera eficiente para crear aplicaciones escalables y resistentes.
 
  __________________________________________________________________________________________________________________________________
