@@ -16,25 +16,11 @@ Lenguajes de Programacion: `Python`, `JavaScript`
 
 Frameworks: `FastAPI`, `Django`, `Flask`, `node.js`
 
-ORM: `SQLAlchemy`, `ORMDjango`
-
 Contenedores y orquestacion: `Docker`, `Docker-Compose`, `Kubernetes`
-
-Infraestructura como codigo: `Terraform`
-
-Proxy inversos: `Nginx`
-
-Cache: `Redis`
 
 Servidores ASGI/WSGI : `Uvicorn`, `Gunicorn`
 
 Control de Versiones: `Git`
-
-DBMS : `Postgresql`, `Mysql`
-
-Tunelizacion: `Ngrok`
-
-Herramientas de pruebas de carga: `locout`
 
 Proyectos:
 
