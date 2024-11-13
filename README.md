@@ -24,14 +24,14 @@ Control de Versiones: `Git`
 
 Proyectos:
 
-- 🧠 `TomatuIP`: Consiste en la captura de la ip visitante y la busqueda geografica de IPsv4 y IPv6, este proyecto esta desarrollado en una arquitectura de Microservicios, Las APIs estan desarrolladas en `FastAPI`
+- 🧠 `whatismyip`: Consiste en la captura de la ip visitante y la busqueda geografica de IPsv4 y IPv6, este proyecto esta desarrollado en una arquitectura de Microservicios, Las APIs estan desarrolladas en `FastAPI`
   , el Front en `Angular.js`, como balanceador de cargas `Nginx`, `Redis` como servidor cache y `Ngrok` para la tunelizacion.
   
-- 🏗️ `ProyectDjango`: Un proyecto Django, un entorno web configurado para la implementación fácil de aplicaciones web. En este, encontrarás diferentes aplicaciones, una de las cuales es un portafolio y un mapa interactivo del mundo.
+- 🏗️ `Kit de Arquitectura Backend`: Este repositorio consiste en una maqueta para el inicio de cualquier proyecto, la diferencia de este es que está enfocado en que el dev se concentre totalmente en la lógica del servicio, obviando la creación de APIs Gateway desde cero o el despliegue del proyecto y orientado a una arquitectura de microservicios..
 
 - 🌐 `Django-allauth`: Este proyecto es un sistema de autenticación en Django con funcionalidades para cuentas sociales. Incluye un sitio web con tema Northwind y APIs personalizadas para mostrar información detallada sobre productos.
 
-- 🧠 `PredictIA`: Un proyecto de aprendizaje automático para hacer predicciones basadas en los datos con los que ha sido entrenado.
+- 🧠 `Web Scraping + Kubernetes`: Un endpoint en FastAPI que usa BeautifulSoup para scraping, servido por Nginx, cacheado con Redis y desplegado en Kubernetes.
 
 - 🎥 `Stream`: Un proyecto de servicio de streaming que crea un servidor privado y transmite en vivo en una URL específica, desde la cámara frontal de la persona que lo está ejecutando.
 
