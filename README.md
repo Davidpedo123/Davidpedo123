@@ -37,6 +37,7 @@ Proyectos:
 
   __________________________________________________________________________________________________________________________________
 ### My Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Davidpedo123)](https://github.com/ryo-ma/github-profile-trophy)
 
 | Mis estadísticas de lenguajes | GIF |
 | ------------------------------ | --- |
